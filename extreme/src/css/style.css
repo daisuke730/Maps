@@ -1,0 +1,96 @@
+h2 {
+    color: #434C5E
+}
+
+h3 {
+    margin: 6px 0 !important;
+}
+
+.body-bg {
+    background: #edf2f7;
+}
+
+.form-container {
+    padding-top: 10vh;
+}
+.card-container {
+    padding-top: 5vh;
+}
+
+.form-container .container {
+    background: #fff;
+    border-radius: 10px;
+    padding: 36px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    border-radius: 10px !important;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1) !important;
+}
+
+.card:hover {
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.2) !important;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container > .ui.action.input {
+    margin-left: auto;
+}
+
+.ui.container > * {
+    margin-bottom: 24px;
+}
+
+.ui.form > * {
+    margin: 8px 0;
+}
+
+.ui.cards > .card {
+    flex-grow: 1;
+}
+
+.ui.secondary.menu {
+    padding: 8px;
+    margin: 0 !important;
+    background: #fff;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.top-space {
+    margin-top: 5vh;
+}
+
+.centered-contents {
+    text-align: center;
+}
+
+.footer {
+    position: sticky;
+    top: 100vh;
+    bottom: 0;
+    width: 100%;
+    background: #fff;
+    padding: 12px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.hidden {
+    display: none;
+}
+
+.detail-timeview {
+    margin-bottom: 4px !important;
+}
+
+.detail-timeview > span {
+    margin-right: 12px;
+}
+
+.logo-header {
+    height: 36px;
+    padding: 0 !important;
+}
